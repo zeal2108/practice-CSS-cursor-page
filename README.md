@@ -4,6 +4,8 @@ This repository offers a **desktop-only static layout clone of the "www.cursor.c
 
 The project focuses purely on **structure, layout, typography, spacing, and visual hierarchy**, it is a desktop-only non-responsive web-page without any kind of interactivity.
 
+[Click here to view the demo screenshot ->](Full-screenshot.png)
+
 ---
 
 ## Project Goals

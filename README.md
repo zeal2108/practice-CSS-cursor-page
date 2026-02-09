@@ -6,6 +6,8 @@ The project focuses purely on **structure, layout, typography, spacing, and visu
 
 [Click here to view the demo screenshot ->](Full-screenshot.png)
 
+[Live Web-page link ->](https://zeal2108.github.io/practice-CSS-cursor-page/)
+
 ---
 
 ## Project Goals
